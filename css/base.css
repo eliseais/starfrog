@@ -1086,6 +1086,15 @@ textarea {
     margin-right: auto;
     text-align: center;
 }
-
-
-/*# sourceMappingURL=base.css.map */
+.text {
+  margin-top: 5vw;
+}
+.text1 {
+  margin-top: 5vw;
+}
+.text2 {
+  margin-top: 5vw;
+}
+.text3 {
+  margin-top: 5vw;
+}

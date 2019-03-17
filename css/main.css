@@ -94,11 +94,12 @@ h1, .h1 {
 }
 
 h2, .h2 {
-  font-family: 'Spectral', serif;
+    font-family: 'Underdog', cursive;
     font-size: 3rem;
     line-height: 1.3;
     color: blueviolet;
     font-weight: 700;
+        text-transform: uppercase;
 }
 h6{
   color: white;
@@ -108,6 +109,7 @@ p {
   font-family: 'Didact Gothic', sans-serif;
 font-size: 2vw;
 color: black;
+
 }
 a {
   font-family: 'Didact Gothic', sans-serif;
@@ -1199,7 +1201,7 @@ background-color: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
 }
 
 .subhead {
-  font-family: 'Spectral', serif;
+    font-family: 'Didact Gothic', sans-serif;
 font-size: 1.9rem;
     line-height: 1.333;
     text-transform: uppercase;
@@ -1749,8 +1751,7 @@ font-size: 1.9rem;
 }
 
 .home-content h3 {
-  font-family: 'Spectral', serif;
-
+    font-family: 'Didact Gothic', sans-serif;
     font-size: 1.6rem;
     color: rgba(255, 255, 255, 0.5);
     text-transform: uppercase;
@@ -1766,7 +1767,7 @@ font-family: 'Underdog', cursive;
     font-size: 6.3rem;
     line-height: 1.333;
     margin-top: 0;
-    color: blueviolet;
+    color: white;
 }
 
 .home-content__main {
@@ -2196,7 +2197,7 @@ background-image: linear-gradient(-225deg, #B6CEE8 0%, #F578DC 100%);
 }
 
 .stats__count {
-font-family: 'Spectral', serif;
+    font-family: 'Didact Gothic', sans-serif;
     font-size: 8.4rem;
     line-height: 1;
     color: #FFFFFF;
@@ -2207,7 +2208,7 @@ font-family: 'Spectral', serif;
 }
 
 .stats h5 {
-font-family: 'Spectral', serif;
+    font-family: 'Didact Gothic', sans-serif;
     margin-top: 1.8rem;
     color: blueviolet;
     font-size: 1.8rem;
@@ -3141,7 +3142,7 @@ font-family: 'Spectral', serif;
 
 .submit-loader .text-loader {
     display: none;
-    font-family: "montserrat-regular", sans-serif;
+    font-family: 'Didact Gothic', sans-serif;
     font-size: 1.3rem;
     font-weight: bold;
     line-height: 1.846;
@@ -3409,7 +3410,7 @@ footer .row {
 
 .footer-subscribe #mc-form label {
     color: #FFFFFF;
-    font-family: "montserrat-regular", sans-serif;
+    font-family: 'Didact Gothic', sans-serif;
     font-size: 1.3rem;
     padding: 0 2rem;
 }
